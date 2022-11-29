@@ -1,0 +1,15 @@
+.beneficio{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    background: rgb(240, 224, 81);
+    padding: 40px;    
+}
+
+.lista__beneficios{
+    list-style: none;
+}
+
+.itens::before{
+    content: "✭";
+}

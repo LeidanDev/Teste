@@ -1,0 +1,14 @@
+.rodape{
+    text-align: center;
+    background: linear-gradient(to bottom, rgb(240, 224, 81),#fefefe);
+}
+
+
+.imagem__rodape{
+    height: 250px;
+    width: 450px;  
+}
+
+.copyright{
+    font-size: 13px;
+}
